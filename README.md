@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+🐋 나는 고래가 될거야
+
 <!--
 **Kim-wonder/Kim-wonder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
